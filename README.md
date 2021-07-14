@@ -1,0 +1,1 @@
+# django-realtime-app (not chat)
